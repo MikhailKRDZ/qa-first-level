@@ -7,11 +7,15 @@ First level tasks automation training
 
 Добавлены в чат в gitter
 
-выполненно задание Version Control with Git
+выполненные задание Version Control with Git,
+(version-control-with-git-nightmare
+version-control-with-git-nightmare-second-part
+version-control-with-git-second-edition-hardcore
+version-control-with-git-second-edition)
 
 выполненно задание Maven build tool
 
-выполненно задание CI with Jenkins
+выполненны задания CI with Jenkins
 
 Java. Fundamentals
 Main Task     
